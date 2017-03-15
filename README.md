@@ -1,2 +1,2 @@
-# Shlog
+# Šlog
 Shonetov konzolooooog (Shonetova ludacka organizacija)
