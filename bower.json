@@ -1,0 +1,21 @@
+{
+  "name": "Šlog",
+  "authors": [
+    "NenadJ <shone20@gmail.com>"
+  ],
+  "description": "Šonetov konzolog",
+  "main": "",
+  "keywords": [
+    "šone",
+    "car"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
