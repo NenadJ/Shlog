@@ -1,7 +1,7 @@
 class Slog {
     
     constructor() {
-        var slag = {};
+        let slag = {};
     
     
         return slag;
