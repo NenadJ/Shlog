@@ -1,6 +1,11 @@
-function Slog() {
-    var slag = {};
-
-
-    return slag;
+class Slog {
+    
+    constructor() {
+        var slag = {};
+    
+    
+        return slag;
+    }
 }
+
+module.export = Slog;
