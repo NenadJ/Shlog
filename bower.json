@@ -1,14 +1,18 @@
 {
-  "name": "Šlog",
+  "name": "shlog",
   "authors": [
     "NenadJ <shone20@gmail.com>"
   ],
-  "description": "Šonetov konzolog",
+  "description": "sonetov konzolog",
   "main": "",
   "keywords": [
-    "šone",
+    "sone",
     "car"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NenadJ/Shlog.git"
+  },
   "license": "MIT",
   "homepage": "",
   "ignore": [
