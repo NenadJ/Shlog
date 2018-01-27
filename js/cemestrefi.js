@@ -1,11 +1,9 @@
-class Slog {
-    
-    constructor() {
-        let slag = {};
-    
-    
-        return slag;
-    }
+function Slog() {
+  console.log('Created');
 }
 
-module.export = Slog;
+Slog.prototype.log = (data) => {
+  console.log(data ? data : 'pera');
+};
+
+const sh = new Slog();
