@@ -1,13 +1,12 @@
 {
   "name": "shlog",
   "authors": [
-    "NenadJ <shone20@gmail.com>"
+    "author": "Nenad Jakovljevic <shone20@gmail.com>",
   ],
-  "description": "sonetov konzolog",
+  "description": "Sve sto treba da uradite je da se \"sh.log()nete\" i po defaultu ce makar pera iskociti u konzoli.(Shonetova ludacka organizacija)",
   "main": "",
   "keywords": [
-    "sone",
-    "car"
+    "shlog"
   ],
   "repository": {
     "type": "git",

@@ -1,0 +1,22 @@
+{
+  "name": "shlog",
+  "version": "1.0.0",
+  "description": "Sve sto treba da uradite je da se \"sh.log()nete\" i po defaultu ce makar pera iskociti u konzoli.(Shonetova ludacka organizacija)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NenadJ/Shlog.git"
+  },
+  "keywords": [
+    "shlog"
+  ],
+  "author": "Nenad Jakovljevic <shone20@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NenadJ/Shlog/issues"
+  },
+  "homepage": "https://github.com/NenadJ/Shlog#readme"
+}
